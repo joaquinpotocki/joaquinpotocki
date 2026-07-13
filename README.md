@@ -3,7 +3,7 @@
 ## 🌐 Comunidad
 
 <a href="https://programadoresargentina.com/p/joaquinpotocki">
-  <img src="https://programadoresargentina.com/api/badges/joaquinpotocki" width="200" alt="Pines de la Comunidad de Programadores Argentina" />
+  <img src="https://programadoresargentina.com/api/badges/joaquinpotocki" width="500" alt="Pines de la Comunidad de Programadores Argentina" />
 </a>
 
 ---
