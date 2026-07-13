@@ -16,13 +16,6 @@
 
 ## 💡 Sobre mí
 
-Soy desarrollador y parte de la **Comunidad de Programadores Argentina**. 
+Soy desarrollador de software. 
 
 Acá encontrás mis proyectos y contribuciones. ¡No dudes en explorar! 🚀
-
----
-
-## 📫 Conectemos
-
-- **GitHub**: [@joaquinpotocki](https://github.com/joaquinpotocki)
-- **Comunidad de Programadores Argentina**: [Mi perfil](https://programadoresargentina.com/p/joaquinpotocki)
